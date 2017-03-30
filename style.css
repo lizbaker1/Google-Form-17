@@ -1,0 +1,21 @@
+body{
+  background-color: #80e5ff;
+  font-family: Helvetica; /*Changes font of entire website to Helvetica*/
+  margin: 0 px 10% 0 10%;/*remember top, right, bottom, left*/
+  color: #0000b3; /*refers to colour dark bluiiiiiish :) */
+  font-size: 20px;
+}
+
+h1{
+  color: #ffffff; /*Change color of H1 to
+  tealiiish */
+  text-align: center; /* Center the H1 */
+  text-shadow: 1px 0 0 #0000b3, 0 -1px 0 #0000b3,
+  0 1px 0 #0000b3, -1px 0 0 #0000b3; /* adding a
+  shadow to my H1*/
+  font-size: 40px;
+}
+
+monkeys{
+
+}
